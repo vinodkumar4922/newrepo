@@ -2,4 +2,5 @@
 void main()
 {
 printf("Hello world");
+printf("2nd time ");
 }
